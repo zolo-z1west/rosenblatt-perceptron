@@ -1,48 +1,11 @@
-# **Rosenblatt Perceptron – Implementation & Analysis**
+# **The perceptron and a perceiving and recognizing automation - Rosenblatt(1957)**
+##--------------------------------------------------------------------------------
 
-## **Overview**
-<!-- Brief summary of what this repository contains -->
+Rosenblatt through his paper on an artifical neuron or a perceptron paved the for modern neural nets and foundational deep learning. 
+His paper being self explainative and amazing is at the same time huge and time consuming. And what is better than to understand something through code? 
+i have attached my own pdf of his paper with my highlights and important points which i took reference from, and explained the crust of the paper in the jupyter notebook attached.
 
-## **Paper Reference**
-<!-- Add citation details for Rosenblatt’s original work -->
+Hope you like it. 
 
-## **Algorithm Description**
-<!-- Short explanation of the perceptron learning rule -->
 
-## **Mathematical Formulation**
-<!-- Equations and variables used -->
-
-## **Dataset**
-<!-- Description of dataset used for training and testing -->
-
-## **Project Structure**
-```
-ROSENBLATT-PERCEPTRON/
-├── data/
-├── code/
-│   ├── perceptron.py
-│   └── utils.py
-├── notebooks/
-└── README.md
-```
-
-## **Installation**
-<!-- Steps to set up environment and install dependencies -->
-
-## **Usage**
-<!-- Commands or scripts to run training, testing, visualization -->
-
-## **Results**
-<!-- Plots, accuracy metrics, decision boundary illustrations -->
-
-## **Experiments**
-<!-- Hyperparameters tried, observations, variations tested -->
-
-## **Limitations**
-<!-- Known issues, constraints, assumptions made -->
-
-## **Future Work**
-<!-- Planned improvements or extensions -->
-
-## **References**
-<!-- List all academic references used -->
+***Note: -Any discrepancies in my explanation, pls do raise an issue and detail it out so that i can learn and correct more***
