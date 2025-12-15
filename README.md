@@ -8,4 +8,4 @@ i have attached my own pdf of his paper with my highlights and important points 
 Hope you like it. 
 
 
-***Note: -Any discrepancies in my explanation, pls do raise an issue and detail it out so that i can learn and correct more***
+***Note: -Any discrepancies in my explanation, pls do raise an issue and detail it out so that i can correct and learn more***
